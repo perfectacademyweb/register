@@ -1,9 +1,9 @@
 {
   "owner": {
-    "username": "perfectacademyweb",
-    "email": "perfectacademy.web@gmail.com"
+    "email": "perfectacademy.web.com"
   },
   "records": {
     "CNAME": "perfectacademyweb.github.io"
-  }
+  },
+  "proxied": false
 }
